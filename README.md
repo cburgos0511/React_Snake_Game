@@ -10,8 +10,8 @@ Finished(Maybe implement and backend that saved the top 8 scores)
 # Installation
 It is as simple as it gets.
 * Once you clone the repositor, open it on your IDE of choice and open the terminal.
-* > npm install
-* > npm start
+* `npm install`
+* `npm start`
 
 # How to use?
 This snake game is like most snake games. Use your keyboard arrows to controll the snake.
